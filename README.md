@@ -7,4 +7,4 @@ Paste code and *save* it.
 
 Everytime textbin link is opened this script will run.
 
-Note: In future, if domain name is not the same. Modify @match line.
+**Note:** In future, if domain name is not the same. Modify @match link.
